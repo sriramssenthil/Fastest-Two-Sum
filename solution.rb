@@ -14,5 +14,3 @@ def two_sum(nums, target)
         end
     end
 end
-
-# Runtime: 51 ms
