@@ -16,6 +16,3 @@
         return res;
     }
 }
-
-// Runtime: O ms
-// Memory; 45.02 MB
