@@ -16,6 +16,4 @@ public:
     } 
 };
 
-// Runtime: 3 ms
-// Memory: 14.16 MB
 
