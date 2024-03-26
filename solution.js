@@ -14,6 +14,3 @@
 
     return ret
 };
-
-// Runtime: 30 ms
-// Memory: 51.60 MB
