@@ -5,5 +5,6 @@ Rank (By Speed):
 3. Javascript: 30ms
 4. Typescript: 43ms
 5. Python3: 46ms
-6. Kotlin: 166ms
+6. Ruby: 51ms
+7. Kotlin: 166ms
 
